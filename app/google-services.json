@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871650820962",
+    "project_id": "keranjangpetani",
+    "storage_bucket": "keranjangpetani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871650820962:android:000923a24c62687de0a23b",
+        "android_client_info": {
+          "package_name": "com.example.keranjangpetani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871650820962-e7rbt7dd9hn8go54amb2d0i134ipbf7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keranjangpetani",
+            "certificate_hash": "571f2e86475a9639d0b3ff5d10f9e51a4ccc33cd"
+          }
+        },
+        {
+          "client_id": "871650820962-6shtslcpdbegvf6bgrhlhkl1k1eoi4h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOAG1TC57uDSxl3US_YIGSRsiTMyW0QSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871650820962-6shtslcpdbegvf6bgrhlhkl1k1eoi4h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KeranjangPetani</string>
+    <string name="email">email</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun">belum punya akun?</string>
+    <string name="password">Password</string>
+    <string name="username">username</string>
+    <string name="daftar">Daftar</string>
+    <string name="pengaturan_akun">Pengaturan Akun</string>
+    <string name="pusat_bantuan">Pusat Bantuan</string>
+    <string name="jual_barang">jual barang</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="logout">logout</string>
+    <string name="Jual_Barang">Jual Barang</string>
+    <string name="About_string">Aplikasi keranjang petani adalah platform untuk melakukan jual beli hasil pertanian, perlengkapan pertanian dan semua kebutuan lainnya mengenai pertanian.</string>
+    <string name="chat">chat</string>
+    <string name="notifications">notifications</string>
+    <string name="home">home</string>
+    <string name="dashboard">akun</string>
+    <string name="rp">Rp.</string>
+    <string name="toko_saya">Toko Saya</string>
+    <string name="no_wa">no wa dengan kode negara</string>
+    <string name="masukkan_harga_produk_rp">masukkan harga produk Rp.</string>
+
+</resources>
